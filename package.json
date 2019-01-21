@@ -1,0 +1,24 @@
+{
+  "name": "vacation_server",
+  "version": "1.0.0",
+  "description": "node.js vacation api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenanderson1615/vacation_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenanderson1615/vacation_server/issues"
+  },
+  "homepage": "https://github.com/jenanderson1615/vacation_server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
